@@ -1,11 +1,6 @@
-# Project files and paths.
-.classpath
-.project
+build/
+local.properties
+.gradle/
 *.iml
-**/*.iml
-.settings/
-bin/
-libs/
-gen/
+.DS_Store
 .idea/
-.gitignore
