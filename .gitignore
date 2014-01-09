@@ -2,10 +2,13 @@
 .classpath
 .project
 *.iml
-**/*.iml
 .settings/
 bin/
 libs/
 gen/
+build/
+local.properties
+.gradle/
+.DS_Store
 .idea/
 .gitignore
