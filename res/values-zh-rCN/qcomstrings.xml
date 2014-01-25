@@ -20,10 +20,10 @@
 
 <resources>
 
-    <string name="pref_camera_powermode_title">电源模式</string>
-    <string name="pref_camera_powermode_entry_lp">低电量</string>
-    <string name="pref_camera_powermode_entry_np">普通电量</string>
-    <string name="pref_camera_autoexposure_title">选择自动曝光模式</string>
+    <string name="pref_camera_powermode_title">功率模式</string>
+    <string name="pref_camera_powermode_entry_lp">低功率</string>
+    <string name="pref_camera_powermode_entry_np">正常功率</string>
+    <string name="pref_camera_autoexposure_title">自动曝光模式</string>
     <string name="pref_camera_autoexposure_entry_frameaverage">画面平均</string>
     <string name="pref_camera_autoexposure_entry_centerweighted">中央重点</string>
     <string name="pref_camera_autoexposure_entry_spotmetering">点测光</string>
@@ -37,6 +37,7 @@
     <string name="pref_camera_skinToneEnhancement_title">增强肤色</string>
     <string name="pref_camera_skinToneEnhancement_entry_enable">启用</string>
     <string name="pref_camera_skinToneEnhancement_entry_disable">禁用</string>
+    <string name="pref_camera_zsl_title">零快门延迟 (ZSL)</string>
     <string name="pref_camera_selectablezoneaf_title">选区自动对焦</string>
     <string name="pref_camera_selectablezoneaf_entry_auto">自动</string>
     <string name="pref_camera_selectablezoneaf_entry_spotmetering">点测光</string>
@@ -58,21 +59,22 @@
     <string name="error_app_unsupported">编码类型不支持当前视频分辨率</string>
     <string name="error_app_unsupported_raw">ZSL模式不支持RAW图片格式</string>
     <string name="error_app_unsupported_hdr_zsl">ZSL模式不支持HDR</string>
-    <string name="pref_camera_ae_bracket_hdr_entry_ae_bracket">自动校正分阶段曝光</string>
+    <string name="pref_camera_ae_bracket_hdr_title">自动包围曝光</string>
+    <string name="pref_camera_ae_bracket_hdr_entry_ae_bracket">自动包围曝光</string>
     <string name="pref_camera_ae_bracket_hdr_entry_on">打开</string>
     <string name="pref_camera_ae_bracket_hdr_entry_off">关闭</string>
-    <string name="err_app_unsupport_ae_bracket_code">应用程序不支持分阶段曝光</string>
+    <string name="err_app_unsupport_ae_bracket_code">不支持自动包围曝光</string>
     <string name="snapshot_lower_than_video">视频快照尺寸小于视频大小。覆盖视频尺寸。请选择更高或与当前视频尺寸相等的分辨率。</string>
-    <string name="snapshotsize_low_powermode">我们不支持低电量模式的图片分辨率，考虑到视频尺寸快照，请为了图片尺寸选择稍高的电量模式。</string>
+    <string name="snapshotsize_low_powermode">低功率模式不支持改变图片大小，视频尺寸将快照，请选择正常功率模式用于支持改变图片大小。</string>
     <string name="snapshot_qcif_and_d1">当前清晰度只支持视频大小快照。</string>
-    <string name="pref_camera_hfr_title">视频高帧率</string>
+    <string name="pref_camera_hfr_title">高帧率视频</string>
     <string name="pref_camera_hfr_entry_off">关闭</string>
     <string name="pref_camera_denoise_title">微波降噪模式</string>
     <string name="pref_camera_denoise_entry_off">关闭</string>
     <string name="pref_camera_denoise_entry_on">打开</string>
-    <string name="pref_camera_iso_title">选择 ISO</string>
+    <string name="pref_camera_iso_title">ISO</string>
     <string name="pref_camera_iso_entry_auto">自动</string>
-    <string name="pref_camera_iso_entry_isodeblur">ISO 自动(HJR)</string>
+    <string name="pref_camera_iso_entry_isodeblur">自动 (HJR)</string>
     <string name="pref_camera_antibanding_title">抗条纹</string>
     <string name="pref_camera_antibanding_entry_0">关闭</string>
     <string name="pref_camera_antibanding_entry_3">自动</string>
@@ -95,7 +97,7 @@
     <string name="pref_camera_touchafaec_title">触摸对焦/校正</string>
     <string name="pref_camera_touchafaec_entry_off">关闭</string>
     <string name="pref_camera_touchafaec_entry_on">打开</string>
-    <string name="pref_camera_dis_title">DIS</string>
+    <string name="pref_camera_dis_title">数字防抖</string>
     <string name="pref_camera_dis_default">禁用</string>
     <string name="pref_camera_dis_entry_off">关闭</string>
     <string name="pref_camera_dis_entry_on">打开</string>
@@ -105,7 +107,7 @@
     <string name="pref_camera_facerc_entry_on">打开</string>
     <string name="pref_camera_sharpness_entry_level0">等级 0</string>
     <string name="pref_camera_sharpness_entry_level1">等级 1</string>
-    <string name="pref_camera_sharpness_entry_level2">等级 2(默认)</string>
+    <string name="pref_camera_sharpness_entry_level2">等级 2 (默认)</string>
     <string name="pref_camera_sharpness_entry_level3">等级 3</string>
     <string name="pref_camera_sharpness_entry_level4">等级 4</string>
     <string name="pref_camera_sharpness_entry_level5">等级 5</string>
@@ -115,7 +117,7 @@
     <string name="pref_camera_contrast_entry_level2">等级 2</string>
     <string name="pref_camera_contrast_entry_level3">等级 3</string>
     <string name="pref_camera_contrast_entry_level4">等级 4</string>
-    <string name="pref_camera_contrast_entry_level5">等级 5(默认)</string>
+    <string name="pref_camera_contrast_entry_level5">等级 5 (默认)</string>
     <string name="pref_camera_contrast_entry_level6">等级 6</string>
     <string name="pref_camera_contrast_entry_level7">等级 7</string>
     <string name="pref_camera_contrast_entry_level8">等级 8</string>
@@ -126,7 +128,7 @@
     <string name="pref_camera_saturation_entry_level2">等级 2</string>
     <string name="pref_camera_saturation_entry_level3">等级 3</string>
     <string name="pref_camera_saturation_entry_level4">等级 4</string>
-    <string name="pref_camera_saturation_entry_level5">等级 5(默认)</string>
+    <string name="pref_camera_saturation_entry_level5">等级 5 (默认)</string>
     <string name="pref_camera_saturation_entry_level6">等级 6</string>
     <string name="pref_camera_saturation_entry_level7">等级 7</string>
     <string name="pref_camera_saturation_entry_level8">等级 8</string>
@@ -135,7 +137,7 @@
     <string name="pref_camera_sharpness_title">清晰度</string>
     <string name="pref_camera_contrast_title">对比度</string>
     <string name="pref_camera_saturation_title">饱和度</string>
-    <string name="pref_camera_picture_format_title">选择图片格式</string>
+    <string name="pref_camera_picture_format_title">图片格式</string>
     <string name="pref_camera_jpegquality_title">图片质量</string>
     <string name="pref_camera_jpegquality_entry_superfine">超高质量</string>
     <string name="pref_camera_jpegquality_entry_fine">高质量</string>
@@ -144,6 +146,7 @@
 	<string name="pref_camera_histogram_entry_enable">启用</string>
 	<string name="pref_camera_histogram_entry_disable">禁用</string>
 	<string name="pref_camera_focusmode_entry_normal">普通</string>
+    <string name="pref_camera_focusmode_entry_continuous">连续</string>
 	<string name="pref_camera_scenedetect_title">自动情景检测</string>
 	<string name="pref_camera_scenedetect_entry_off">关闭</string>
 	<string name="pref_camera_scenedetect_entry_on">打开</string>
