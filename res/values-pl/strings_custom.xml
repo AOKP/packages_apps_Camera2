@@ -73,9 +73,12 @@
   <string name="pref_camera_scenemode_entry_pet">Zwierzęta</string>
   <string name="pref_camera_scenemode_entry_portrait">Portret</string>
   <string name="pref_camera_scenemode_entry_snow">Śnieg</string>
+  <string name="pref_camera_scenemode_entry_softskin">Delikatna skóra</string>
   <string name="pref_camera_scenemode_entry_sports">Sport</string>
+  <string name="pref_camera_scenemode_entry_spotlight">Światło reflektora</string>
   <string name="pref_camera_scenemode_entry_steadyphoto">Stabilne zdjęcie</string>
   <string name="pref_camera_scenemode_entry_supernight">Ciemna noc</string>
+  <string name="pref_camera_scenemode_entry_sweepstitch">Rozległy ścieg</string>
   <string name="pref_camera_scenemode_entry_text">Tekst</string>
   <string name="pref_camera_scenemode_entry_theatre">Teatr</string>
   <string name="pref_camera_scenemode_entry_whiteboard">Biała tablica</string>
@@ -85,6 +88,7 @@
   <string name="pref_camera_focusmode_entry_facepriority">Priorytet twarzy</string>
   <string name="pref_camera_focusmode_entry_fixed">Stały</string>
   <string name="pref_camera_focusmode_entry_portrait">Portret</string>
+  <string name="pref_camera_focusmode_entry_hyperfocal">Hiperfokal</string>
   <string name="pref_camera_coloreffect_entry_washed">Wyprane</string>
   <string name="pref_camera_coloreffect_entry_vintage_warm">Ciepły vintage</string>
   <string name="pref_camera_coloreffect_entry_vintage_cold">Zimny vintage</string>

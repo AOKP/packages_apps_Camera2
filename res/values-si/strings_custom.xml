@@ -66,7 +66,7 @@
   <string name="pref_camera_scenemode_entry_indoor">ගෘහස්ථ</string>
   <string name="pref_camera_scenemode_entry_landscape">තිරස්</string>
   <string name="pref_camera_scenemode_entry_mix_illuminant">කවලම් එළි</string>
-  <string name="pref_camera_scenemode_entry_mood">නියාව</string>
+  <string name="pref_camera_scenemode_entry_mood">මනෝභාවය</string>
   <string name="pref_camera_scenemode_entry_nightportrait">රාත්‍රී ඦායාරූපය</string>
   <string name="pref_camera_scenemode_entry_nightindoor">රාත්‍රී ගෘහස්ථ</string>
   <string name="pref_camera_scenemode_entry_oldfilm">පැරණි සේයාරුව</string>
@@ -96,7 +96,7 @@
   <string name="pref_camera_coloreffect_entry_point_green">කොළ වෙත යොමුවන්න</string>
   <string name="pref_camera_coloreffect_entry_point_red_yellow">රතු-කහ වෙත යොමුවන්න</string>
   <string name="pref_camera_coloreffect_entry_cartoonize">කාටූනකරණය</string>
-  <string name="pref_camera_burst_title">පිපිරුම් ආකාරය</string>
+  <string name="pref_camera_burst_title">පිපිරුම් ප්‍රකාරය</string>
   <string name="pref_camera_burst_entry_off">අක්‍රීයයි</string>
   <string name="pref_camera_burst_entry_5">දර්ශන ඛණ්ඩ 5</string>
   <string name="pref_camera_burst_entry_10">දර්ශන ඛණ්ඩ 10</string>
@@ -112,7 +112,7 @@
   <string name="pref_camera_focustime_entry_infinite">අනන්තයි</string>
   <string name="pref_camera_flashmode_entry_redeye">රතු ඇස</string>
   <string name="pref_camera_flashmode_label_redeye">රතු ඇස</string>
-  <string name="pref_camera_beauty_mode_title">ලස්සණ ආකාරය</string>
+  <string name="pref_camera_beauty_mode_title">ලස්සණ ප්‍රකාරය</string>
   <string name="pref_camera_slow_shutter_title">ප්‍රමාදී ශටරය</string>
   <string name="pref_camera_slow_shutter_entry_off">අක්‍රීයයි</string>
   <string name="pref_camera_slow_shutter_entry_auto">ස්වයංක්‍රීය</string>
