@@ -45,15 +45,15 @@
   <string name="pref_camera_scenemode_entry_ar">Réalité augmentée</string>
   <string name="pref_camera_scenemode_entry_asd">Meilleure prise</string>
   <string name="pref_camera_scenemode_entry_baby">Bébé</string>
-  <string name="pref_camera_scenemode_entry_backgroundblur">Arrière-plan flou</string>
+  <string name="pref_camera_scenemode_entry_backgroundblur">Flou d\'arrière-plan</string>
   <string name="pref_camera_scenemode_entry_backlight">Contre-jour</string>
-  <string name="pref_camera_scenemode_entry_backlightportrait">Contre-jour portrait</string>
+  <string name="pref_camera_scenemode_entry_backlightportrait">Portrait à contre-jour</string>
   <string name="pref_camera_scenemode_entry_barcode">Code barres</string>
   <string name="pref_camera_scenemode_entry_beach">Plage</string>
   <string name="pref_camera_scenemode_entry_beauty">Beauté</string>
   <string name="pref_camera_scenemode_entry_candlelight">Lumière de bougie</string>
   <string name="pref_camera_scenemode_entry_cine">Ciné</string>
-  <string name="pref_camera_scenemode_entry_closeup">gros plan</string>
+  <string name="pref_camera_scenemode_entry_closeup">Gros plan</string>
   <string name="pref_camera_scenemode_entry_dark">Sombre</string>
   <string name="pref_camera_scenemode_entry_dish">Plat</string>
   <string name="pref_camera_scenemode_entry_duskdawn">Crépuscule</string>
@@ -88,7 +88,7 @@
   <string name="pref_camera_focusmode_entry_facepriority">Priorité aux visages</string>
   <string name="pref_camera_focusmode_entry_fixed">Fixe</string>
   <string name="pref_camera_focusmode_entry_portrait">Portrait</string>
-  <string name="pref_camera_focusmode_entry_hyperfocal">Hyperfocal</string>
+  <string name="pref_camera_focusmode_entry_hyperfocal">Hyperfocale</string>
   <string name="pref_camera_coloreffect_entry_washed">Lavé</string>
   <string name="pref_camera_coloreffect_entry_vintage_warm">Vintage chaud</string>
   <string name="pref_camera_coloreffect_entry_vintage_cold">Vintage froid</string>
