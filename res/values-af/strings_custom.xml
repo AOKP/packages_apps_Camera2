@@ -16,33 +16,8 @@
      limitations under the License.
 -->
 <resources>
-  <string name="pref_camera_picturesize_entry_50mp">50M pixels (Super Zoom)</string>
-  <string name="pref_camera_picturesize_entry_37_5mp">37.5M pixels (Super Zoom)</string>
-  <string name="pref_camera_picturesize_entry_20_7mp">20.7M pixels</string>
-  <string name="pref_camera_picturesize_entry_18mp">18M pixels</string>
-  <string name="pref_camera_picturesize_entry_12_8mp">12.8M pixels</string>
-  <string name="pref_camera_picturesize_entry_12_7mp">12.7M pixels</string>
-  <string name="pref_camera_picturesize_entry_11_5mp">11.5M pixels</string>
-  <string name="pref_camera_picturesize_entry_10_4mp">10.4M pixels</string>
-  <string name="pref_camera_picturesize_entry_10mp">10M pixels</string>
-  <string name="pref_camera_picturesize_entry_9mp">9M pixels</string>
-  <string name="pref_camera_picturesize_entry_8_2mp">8.2M pixels</string>
   <string name="pref_camera_picturesize_entry_7_7mp">7.7M pixels (4x3)</string>
-  <string name="pref_camera_picturesize_entry_6_4mp">6.4M pixels</string>
-  <string name="pref_camera_picturesize_entry_6mp">6M pixels</string>
-  <string name="pref_camera_picturesize_entry_4_5mp">4.5M pixels</string>
-  <string name="pref_camera_picturesize_entry_3_7mp">3.7M pixels</string>
-  <string name="pref_camera_picturesize_entry_2_5mp">2.5M pixels</string>
-  <string name="pref_camera_picturesize_entry_2_1mp">2.1M pixels</string>
-  <string name="pref_camera_picturesize_entry_1_9mp">1.9M pixels</string>
-  <string name="pref_camera_picturesize_entry_wxga">WXGA</string>
-  <string name="pref_camera_picturesize_entry_xga">XGA</string>
-  <string name="pref_camera_picturesize_entry_svga">SVGA</string>
-  <string name="pref_camera_picturesize_entry_nhd">nHD</string>
-  <string name="pref_camera_picturesize_entry_wvga">WVGA</string>
-  <string name="pref_camera_picturesize_entry_wqvga">WQVGA</string>
   <string name="pref_camera_scenemode_entry_antimotionblur">Beweging vervaag vermindering</string>
-  <string name="pref_camera_scenemode_entry_aqua">Aqua</string>
   <string name="pref_camera_scenemode_entry_ar">Augmented realiteit</string>
   <string name="pref_camera_scenemode_entry_asd">Beste Skoot</string>
   <string name="pref_camera_scenemode_entry_baby">Baba</string>
@@ -91,7 +66,6 @@
   <string name="pref_camera_focusmode_entry_portrait">Portret</string>
   <string name="pref_camera_focusmode_entry_hyperfocal">Hiper fokale</string>
   <string name="pref_camera_coloreffect_entry_washed">Gewas</string>
-  <string name="pref_camera_coloreffect_entry_vintage_warm">Vintage warm</string>
   <string name="pref_camera_coloreffect_entry_vintage_cold">Vintage koud</string>
   <string name="pref_camera_coloreffect_entry_point_blue">Punt blou</string>
   <string name="pref_camera_coloreffect_entry_point_green">Punt geel</string>
@@ -105,11 +79,6 @@
   <string name="pref_camera_burst_entry_20">20 skote</string>
   <string name="pref_camera_focustime_title">Raak fokus duur</string>
   <string name="pref_camera_focustime_summary">Kies tydsduur vir raak fokus</string>
-  <string name="pref_camera_focustime_entry_5">5s</string>
-  <string name="pref_camera_focustime_entry_10">10s</string>
-  <string name="pref_camera_focustime_entry_15">15s</string>
-  <string name="pref_camera_focustime_entry_20">20s</string>
-  <string name="pref_camera_focustime_entry_30">30s</string>
   <string name="pref_camera_focustime_entry_infinite">Oneindig</string>
   <string name="pref_camera_flashmode_entry_redeye">Rooi Oog</string>
   <string name="pref_camera_flashmode_label_redeye">ROOI OOG</string>

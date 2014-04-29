@@ -16,8 +16,6 @@
      limitations under the License.
 -->
 <resources>
-  <string name="pref_camera_picturesize_entry_50mp">50 MP (Super Zoom)</string>
-  <string name="pref_camera_picturesize_entry_37_5mp">37,5 MP (Super Zoom)</string>
   <string name="pref_camera_picturesize_entry_20_7mp">20,7 MP</string>
   <string name="pref_camera_picturesize_entry_18mp">18 MP</string>
   <string name="pref_camera_picturesize_entry_12_8mp">12,8 MP</string>
@@ -41,34 +39,34 @@
   <string name="pref_camera_picturesize_entry_nhd">nHD</string>
   <string name="pref_camera_picturesize_entry_wvga">WVGA</string>
   <string name="pref_camera_picturesize_entry_wqvga">WQVGA</string>
-  <string name="pref_camera_scenemode_entry_antimotionblur">Bewegungsunschärfe-Reduktion</string>
+  <string name="pref_camera_scenemode_entry_antimotionblur">Bewegungsunschärfe reduzieren</string>
   <string name="pref_camera_scenemode_entry_aqua">Wasser</string>
-  <string name="pref_camera_scenemode_entry_ar">Erweiterte Realität</string>
+  <string name="pref_camera_scenemode_entry_ar">Augmented reality</string>
   <string name="pref_camera_scenemode_entry_asd">Beste Aufnahme</string>
   <string name="pref_camera_scenemode_entry_baby">Baby</string>
   <string name="pref_camera_scenemode_entry_backgroundblur">Unscharfer Hintergrund</string>
-  <string name="pref_camera_scenemode_entry_backlight">Gegenlicht</string>
-  <string name="pref_camera_scenemode_entry_backlightportrait">Gegenlicht-Porträt</string>
+  <string name="pref_camera_scenemode_entry_backlight">Hintergrundbeleuchtung</string>
+  <string name="pref_camera_scenemode_entry_backlightportrait">Hintergrundbeleuchtung Porträt</string>
   <string name="pref_camera_scenemode_entry_barcode">Barcode</string>
   <string name="pref_camera_scenemode_entry_beach">Strand</string>
-  <string name="pref_camera_scenemode_entry_beauty">Gesichter verschönern</string>
-  <string name="pref_camera_scenemode_entry_candlelight">Kerzenschein</string>
-  <string name="pref_camera_scenemode_entry_cine">Kino</string>
-  <string name="pref_camera_scenemode_entry_closeup">Makro</string>
+  <string name="pref_camera_scenemode_entry_beauty">Beauty</string>
+  <string name="pref_camera_scenemode_entry_candlelight">Kerzenlicht</string>
+  <string name="pref_camera_scenemode_entry_cine">Film</string>
+  <string name="pref_camera_scenemode_entry_closeup">Nahaufnahme</string>
   <string name="pref_camera_scenemode_entry_dark">Dunkel</string>
   <string name="pref_camera_scenemode_entry_dish">Speisen</string>
   <string name="pref_camera_scenemode_entry_duskdawn">Dämmerung</string>
-  <string name="pref_camera_scenemode_entry_document">Dokumente</string>
-  <string name="pref_camera_scenemode_entry_fallcolor">Herbstfarben</string>
+  <string name="pref_camera_scenemode_entry_document">Dokument</string>
+  <string name="pref_camera_scenemode_entry_fallcolor">Herbsttöne</string>
   <string name="pref_camera_scenemode_entry_fireworks">Feuerwerk</string>
   <string name="pref_camera_scenemode_entry_flowers">Blumen</string>
   <string name="pref_camera_scenemode_entry_handheldtwilight">Dämmerung (ohne Stativ)</string>
   <string name="pref_camera_scenemode_entry_highsensitivity">Hohe Empfindlichkeit</string>
   <string name="pref_camera_scenemode_entry_indoor">Innenraum</string>
   <string name="pref_camera_scenemode_entry_landscape">Landschaft</string>
-  <string name="pref_camera_scenemode_entry_mix_illuminant">Uneinheitliche Beleuchtung</string>
-  <string name="pref_camera_scenemode_entry_mood">Stimmungsvoll</string>
-  <string name="pref_camera_scenemode_entry_nightportrait">Nacht-Porträt</string>
+  <string name="pref_camera_scenemode_entry_mix_illuminant">Gemischtes Licht</string>
+  <string name="pref_camera_scenemode_entry_mood">Stimmung</string>
+  <string name="pref_camera_scenemode_entry_nightportrait">Nachtporträt</string>
   <string name="pref_camera_scenemode_entry_nightindoor">Nacht Innenraum</string>
   <string name="pref_camera_scenemode_entry_oldfilm">Alter Film</string>
   <string name="pref_camera_scenemode_entry_pet">Haustier</string>
@@ -124,10 +122,11 @@
   <string name="pref_camera_slow_shutter_entry_8s">8 Sekunden</string>
   <string name="pref_camera_storage_title">Speicher</string>
   <string name="camera_menu_enhance_label">VERBESSERN</string>
-  <string name="camera_menu_slow_shutter_label">LANGE BELICHTEN</string>
+  <string name="camera_menu_slow_shutter_label">LANGE BELICHTUNG</string>
   <string name="camera_menu_beauty_mode_label">VERSCHÖNERN</string>
   <string name="camera_menu_colorize_label">EINFÄRBEN</string>
   <string name="camera_menu_effects_label">EFFEKTE</string>
   <string name="camera_menu_asd_label">AUTOM. SZENE</string>
   <string name="pref_camera_power_shutter_title">Auslöser</string>
+  <string name="pref_superzoom_title">SuperZoom</string>
 </resources>

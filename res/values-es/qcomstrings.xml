@@ -24,10 +24,10 @@
   <string name="pref_camera_powermode_title">Modo de energía</string>
   <string name="pref_camera_powermode_entry_lp">Baja energía</string>
   <string name="pref_camera_powermode_entry_np">Energía normal</string>
-  <string name="pref_camera_autoexposure_title">Medición de exposición</string>
-  <string name="pref_camera_autoexposure_entry_frameaverage">Matricial</string>
+  <string name="pref_camera_autoexposure_title">Exposición automática</string>
+  <string name="pref_camera_autoexposure_entry_frameaverage">Media de fotogramas</string>
   <string name="pref_camera_autoexposure_entry_centerweighted">Ponderada al centro</string>
-  <string name="pref_camera_autoexposure_entry_spotmetering">Puntual</string>
+  <string name="pref_camera_autoexposure_entry_spotmetering">Medición puntual</string>
   <string name="pref_camera_videoencoder_title">Codec de vídeo</string>
   <string name="pref_camera_videoencoder_dialogtitle">Codec de vídeo</string>
   <string name="pref_camera_audioencoder_title">Códec de audio</string>
