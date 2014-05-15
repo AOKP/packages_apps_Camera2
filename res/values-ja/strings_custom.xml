@@ -25,7 +25,7 @@
   <string name="pref_camera_picturesize_entry_10mp">10メガピクセル</string>
   <string name="pref_camera_picturesize_entry_9mp">9メガピクセル</string>
   <string name="pref_camera_picturesize_entry_8_2mp">8.2メガピクセル</string>
-  <string name="pref_camera_picturesize_entry_7_7mp">7.7メガピクセル (4:3)</string>
+  <string name="pref_camera_picturesize_entry_7_7mp">7.7メガピクセル</string>
   <string name="pref_camera_picturesize_entry_6_4mp">6.4メガピクセル</string>
   <string name="pref_camera_picturesize_entry_6mp">6メガピクセル</string>
   <string name="pref_camera_picturesize_entry_4_5mp">4.5メガピクセル</string>
@@ -115,7 +115,7 @@
   <string name="pref_camera_slow_shutter_title">スローシャッター</string>
   <string name="pref_camera_slow_shutter_entry_off">オフ</string>
   <string name="pref_camera_slow_shutter_entry_auto">自動</string>
-  <string name="pref_camera_slow_shutter_entry_half_second">0.5秒</string>
+  <string name="pref_camera_slow_shutter_entry_half_second">½秒</string>
   <string name="pref_camera_slow_shutter_entry_1s">1秒</string>
   <string name="pref_camera_slow_shutter_entry_2s">2秒</string>
   <string name="pref_camera_slow_shutter_entry_4s">4秒</string>
@@ -128,5 +128,5 @@
   <string name="camera_menu_effects_label">特殊効果</string>
   <string name="camera_menu_asd_label">スマートシーン</string>
   <string name="pref_camera_power_shutter_title">電源シャッター</string>
-  <string name="pref_superzoom_title">スーパーズーム</string>
+  <string name="pref_superzoom_title">拡大</string>
 </resources>

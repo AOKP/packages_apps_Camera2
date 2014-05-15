@@ -25,7 +25,7 @@
   <string name="pref_camera_picturesize_entry_10mp">10M 픽셀</string>
   <string name="pref_camera_picturesize_entry_9mp">9M 픽셀</string>
   <string name="pref_camera_picturesize_entry_8_2mp">8.2M 픽셀</string>
-  <string name="pref_camera_picturesize_entry_7_7mp">7.7M 픽셀 (4:3)</string>
+  <string name="pref_camera_picturesize_entry_7_7mp">7.7M 픽셀</string>
   <string name="pref_camera_picturesize_entry_6_4mp">6.4M 픽셀</string>
   <string name="pref_camera_picturesize_entry_6mp">6M 픽셀</string>
   <string name="pref_camera_picturesize_entry_4_5mp">4.5M 픽셀</string>
@@ -115,7 +115,7 @@
   <string name="pref_camera_slow_shutter_title">느린 셔터</string>
   <string name="pref_camera_slow_shutter_entry_off">종료</string>
   <string name="pref_camera_slow_shutter_entry_auto">자동</string>
-  <string name="pref_camera_slow_shutter_entry_half_second">0.5초</string>
+  <string name="pref_camera_slow_shutter_entry_half_second">½ 초</string>
   <string name="pref_camera_slow_shutter_entry_1s">1초</string>
   <string name="pref_camera_slow_shutter_entry_2s">2초</string>
   <string name="pref_camera_slow_shutter_entry_4s">4초</string>
@@ -128,5 +128,5 @@
   <string name="camera_menu_effects_label">효과</string>
   <string name="camera_menu_asd_label">SMART SCENE</string>
   <string name="pref_camera_power_shutter_title">전원 셔터</string>
-  <string name="pref_superzoom_title">SuperZoom</string>
+  <string name="pref_superzoom_title">확대</string>
 </resources>

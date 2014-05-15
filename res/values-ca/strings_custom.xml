@@ -25,7 +25,6 @@
   <string name="pref_camera_picturesize_entry_10mp">10M píxels</string>
   <string name="pref_camera_picturesize_entry_9mp">9M píxels</string>
   <string name="pref_camera_picturesize_entry_8_2mp">8.2M píxels</string>
-  <string name="pref_camera_picturesize_entry_7_7mp">7.7M píxels (4:3)</string>
   <string name="pref_camera_picturesize_entry_6_4mp">6.4M píxels</string>
   <string name="pref_camera_picturesize_entry_6mp">6M píxels</string>
   <string name="pref_camera_picturesize_entry_4_5mp">4.5M píxels</string>
@@ -100,7 +99,6 @@
   <string name="pref_camera_beauty_mode_title">Mode bonic</string>
   <string name="pref_camera_slow_shutter_title">Obturador lent</string>
   <string name="pref_camera_slow_shutter_entry_off">Apagat</string>
-  <string name="pref_camera_slow_shutter_entry_half_second">1/2 segon</string>
   <string name="pref_camera_slow_shutter_entry_1s">1 segon</string>
   <string name="pref_camera_slow_shutter_entry_2s">2 segons</string>
   <string name="pref_camera_slow_shutter_entry_4s">4 segons</string>

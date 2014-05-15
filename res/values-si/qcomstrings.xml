@@ -68,7 +68,7 @@
   <string name="snapshot_lower_than_video">වීඩියෝ සැණ රුවේ තරම වීඩියෝවේ තරමට වඩා කුඩාය, වීඩියෝවේ තරමට වැසේ. කරුණාකර පවත්නා වීඩියෝවේ තරමට සමාන හෝ ඉහළ විභේදනයක් තෝරන්න.</string>
   <string name="snapshotsize_low_powermode">අවම බල ප්‍රකාරයේදී සේයාවේ තරම වෙනස්කිරීම සහාය නොදක්වයි, වීඩියෝවේ තරමේ සැණ රුවක් ගනු ඇත. කරුණාකර සේයාවේ තරම වෙනස්කිරීම සඳහා අවසර දීමට සාමාන්‍ය බල ප්‍රකාරය තෝරන්න.</string>
   <string name="snapshot_qcif_and_d1">මෙම විභේදනය සඳහා වීඩියෝවේ තරමේ සැණ රූ පමණක් සහාය දක්වයි.</string>
-  <string name="pref_camera_hfr_title">ඉහළ රාමු අනුපාතික වීඩියෝව</string>
+  <string name="pref_camera_hfr_title">මන්ද චලනය (HFR)</string>
   <string name="pref_camera_hfr_entry_off">අක්‍රීයයි</string>
   <string name="pref_camera_hfr_entry_2x">තත්පරයට රාමු 60</string>
   <string name="pref_camera_hfr_entry_3x">තත්පරයට රාමු 90</string>

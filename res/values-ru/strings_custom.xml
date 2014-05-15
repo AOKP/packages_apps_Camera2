@@ -25,7 +25,7 @@
   <string name="pref_camera_picturesize_entry_10mp">10 Мп</string>
   <string name="pref_camera_picturesize_entry_9mp">9 Мп</string>
   <string name="pref_camera_picturesize_entry_8_2mp">8.2 Мп</string>
-  <string name="pref_camera_picturesize_entry_7_7mp">7.7 Мп (4:3)</string>
+  <string name="pref_camera_picturesize_entry_7_7mp">7.7 Мп</string>
   <string name="pref_camera_picturesize_entry_6_4mp">6.4 Мп</string>
   <string name="pref_camera_picturesize_entry_6mp">6 Мп</string>
   <string name="pref_camera_picturesize_entry_4_5mp">4.5 Мп</string>
@@ -115,7 +115,7 @@
   <string name="pref_camera_slow_shutter_title">Длит. выдержка</string>
   <string name="pref_camera_slow_shutter_entry_off">Откл</string>
   <string name="pref_camera_slow_shutter_entry_auto">Авто</string>
-  <string name="pref_camera_slow_shutter_entry_half_second">1/2 с</string>
+  <string name="pref_camera_slow_shutter_entry_half_second">½ секунды</string>
   <string name="pref_camera_slow_shutter_entry_1s">1 с</string>
   <string name="pref_camera_slow_shutter_entry_2s">2 с</string>
   <string name="pref_camera_slow_shutter_entry_4s">4 с</string>
@@ -128,5 +128,5 @@
   <string name="camera_menu_effects_label">ЭФФЕКТЫ</string>
   <string name="camera_menu_asd_label">АВТООПРЕДЕЛЕНИЕ</string>
   <string name="pref_camera_power_shutter_title">Съёмка кн. питания</string>
-  <string name="pref_superzoom_title">Суперзум</string>
+  <string name="pref_superzoom_title">Увеличение</string>
 </resources>

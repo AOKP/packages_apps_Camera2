@@ -25,7 +25,7 @@
   <string name="pref_camera_picturesize_entry_10mp">මෙගා පික්සල 10</string>
   <string name="pref_camera_picturesize_entry_9mp">මෙගා පික්සල 9</string>
   <string name="pref_camera_picturesize_entry_8_2mp">මෙගා පික්සල 8.2</string>
-  <string name="pref_camera_picturesize_entry_7_7mp">මෙගා පික්සල 7.7 (4:3)</string>
+  <string name="pref_camera_picturesize_entry_7_7mp">මෙගා පික්සල 7.7</string>
   <string name="pref_camera_picturesize_entry_6_4mp">මෙගා පික්සල 6.4</string>
   <string name="pref_camera_picturesize_entry_6mp">මෙගා පික්සල 6</string>
   <string name="pref_camera_picturesize_entry_4_5mp">මෙගා පික්සල 4.5</string>
@@ -115,7 +115,7 @@
   <string name="pref_camera_slow_shutter_title">ප්‍රමාදී ශටරය</string>
   <string name="pref_camera_slow_shutter_entry_off">අක්‍රීයයි</string>
   <string name="pref_camera_slow_shutter_entry_auto">ස්වයංක්‍රීය</string>
-  <string name="pref_camera_slow_shutter_entry_half_second">තත්පර 1/2</string>
+  <string name="pref_camera_slow_shutter_entry_half_second">තත්පර ½</string>
   <string name="pref_camera_slow_shutter_entry_1s">තත්පර 1</string>
   <string name="pref_camera_slow_shutter_entry_2s">තත්පර 2</string>
   <string name="pref_camera_slow_shutter_entry_4s">තත්පර 4</string>
@@ -128,5 +128,5 @@
   <string name="camera_menu_effects_label">ප්‍රතිවිපාක</string>
   <string name="camera_menu_asd_label">දැකුම්කලු දර්ශනය</string>
   <string name="pref_camera_power_shutter_title">බල ශටරය</string>
-  <string name="pref_superzoom_title">සුපිරි විශාලනය</string>
+  <string name="pref_superzoom_title">විශාලනය කරන්න</string>
 </resources>

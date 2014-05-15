@@ -68,7 +68,6 @@
   <string name="snapshot_lower_than_video">Videostillbild storlek är lägre än video storlek, tak till video storlek. Välj en upplösning högre eller lika med den aktuella video storleken.</string>
   <string name="snapshotsize_low_powermode">Ändra bildstorlek stöds inte i låg effekts läge, video storlek ögonblicksbild tas. Välj Normal Power-läge för att ändra storlek.</string>
   <string name="snapshot_qcif_and_d1">Endast video storlek ögonblicksbild stöds för denna resolution.</string>
-  <string name="pref_camera_hfr_title">Hög ramhastighets video</string>
   <string name="pref_camera_hfr_entry_off">Av</string>
   <string name="pref_camera_hfr_entry_2x">60 FPS</string>
   <string name="pref_camera_hfr_entry_3x">90 FPS</string>

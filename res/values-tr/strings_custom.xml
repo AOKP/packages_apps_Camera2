@@ -25,14 +25,14 @@
   <string name="pref_camera_picturesize_entry_10mp">10M piksel</string>
   <string name="pref_camera_picturesize_entry_9mp">9 Megapiksel</string>
   <string name="pref_camera_picturesize_entry_8_2mp">8.2 Megapiksel</string>
-  <string name="pref_camera_picturesize_entry_7_7mp">7.7 Megapiksel (4:3)</string>
-  <string name="pref_camera_picturesize_entry_6_4mp">6,4 Megapiksel</string>
+  <string name="pref_camera_picturesize_entry_7_7mp">7.7 Megapiksel</string>
+  <string name="pref_camera_picturesize_entry_6_4mp">6.4 Megapiksel</string>
   <string name="pref_camera_picturesize_entry_6mp">6 Megapiksel</string>
   <string name="pref_camera_picturesize_entry_4_5mp">4.5 Megapiksel</string>
   <string name="pref_camera_picturesize_entry_3_7mp">3.7 Megapiksel</string>
   <string name="pref_camera_picturesize_entry_2_5mp">2.5 Megapiksel</string>
   <string name="pref_camera_picturesize_entry_2_1mp">2.1 Megapiksel</string>
-  <string name="pref_camera_picturesize_entry_1_9mp">1,9 Megapiksel</string>
+  <string name="pref_camera_picturesize_entry_1_9mp">1.9 Megapiksel</string>
   <string name="pref_camera_picturesize_entry_wxga">WXGA</string>
   <string name="pref_camera_picturesize_entry_xga">XGA</string>
   <string name="pref_camera_picturesize_entry_svga">SVGA</string>
@@ -46,7 +46,7 @@
   <string name="pref_camera_scenemode_entry_baby">Bebek</string>
   <string name="pref_camera_scenemode_entry_backgroundblur">Arkaplan bulanıklığı</string>
   <string name="pref_camera_scenemode_entry_backlight">Arka ışık</string>
-  <string name="pref_camera_scenemode_entry_backlightportrait">Arka ışıklı portre</string>
+  <string name="pref_camera_scenemode_entry_backlightportrait">Arkadan ışıklı portre</string>
   <string name="pref_camera_scenemode_entry_barcode">Barkod</string>
   <string name="pref_camera_scenemode_entry_beach">Plaj</string>
   <string name="pref_camera_scenemode_entry_beauty">Güzellik</string>
@@ -115,7 +115,7 @@
   <string name="pref_camera_slow_shutter_title">Yavaş enstantane</string>
   <string name="pref_camera_slow_shutter_entry_off">Kapalı</string>
   <string name="pref_camera_slow_shutter_entry_auto">Otomatik</string>
-  <string name="pref_camera_slow_shutter_entry_half_second">1/2 saniye</string>
+  <string name="pref_camera_slow_shutter_entry_half_second">½ saniye</string>
   <string name="pref_camera_slow_shutter_entry_1s">1 saniye</string>
   <string name="pref_camera_slow_shutter_entry_2s">2 saniye</string>
   <string name="pref_camera_slow_shutter_entry_4s">4 saniye</string>
@@ -128,5 +128,5 @@
   <string name="camera_menu_effects_label">EFEKTLER</string>
   <string name="camera_menu_asd_label">AKILLI SAHNE</string>
   <string name="pref_camera_power_shutter_title">Güç tuşuyla çek</string>
-  <string name="pref_superzoom_title">SüperZoom</string>
+  <string name="pref_superzoom_title">Büyüt</string>
 </resources>
