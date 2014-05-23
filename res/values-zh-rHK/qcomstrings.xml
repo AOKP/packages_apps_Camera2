@@ -68,6 +68,7 @@
   <string name="snapshot_lower_than_video">影像快照尺寸比影像尺寸小，如調高影像尺寸、也請調高解析度或符合目前影像此寸的解析要求。</string>
   <string name="snapshotsize_low_powermode">在電量低的狀況下不能改變圖像的大小，僅能維持快照功能。如須改變圖片的大小則須要調整至正常電量。</string>
   <string name="snapshot_qcif_and_d1">影像快照僅支援此解像度。</string>
+  <string name="pref_camera_hfr_title">慢動作 (高頻率)</string>
   <string name="pref_camera_hfr_entry_off">關閉</string>
   <string name="pref_camera_hfr_entry_2x">60 FPS</string>
   <string name="pref_camera_hfr_entry_3x">90 FPS</string>

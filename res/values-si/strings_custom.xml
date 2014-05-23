@@ -15,7 +15,7 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string name="pref_camera_picturesize_entry_20_7mp">මෙගා පික්සල 20.7</string>
   <string name="pref_camera_picturesize_entry_18mp">මෙගා පික්සල 18</string>
   <string name="pref_camera_picturesize_entry_12_8mp">මෙගා පික්සල 12.8</string>

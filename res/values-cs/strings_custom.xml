@@ -15,7 +15,7 @@
      See the License for the specific language governing permissions and
      limitations under the License.
 -->
-<resources>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <string name="pref_camera_picturesize_entry_20_7mp">20,7 Mpx</string>
   <string name="pref_camera_picturesize_entry_18mp">18 Mpx</string>
   <string name="pref_camera_picturesize_entry_12_8mp">12,8 Mpx</string>
@@ -25,6 +25,7 @@
   <string name="pref_camera_picturesize_entry_10mp">10 Mpx</string>
   <string name="pref_camera_picturesize_entry_9mp">9 Mpx</string>
   <string name="pref_camera_picturesize_entry_8_2mp">8,2 Mpx</string>
+  <string name="pref_camera_picturesize_entry_7_7mp">7,7 MPx</string>
   <string name="pref_camera_picturesize_entry_6_4mp">6,4 Mpx</string>
   <string name="pref_camera_picturesize_entry_6mp">6 Mpx</string>
   <string name="pref_camera_picturesize_entry_4_5mp">4,5 Mpx</string>
@@ -114,6 +115,7 @@
   <string name="pref_camera_slow_shutter_title">Pomalá závěrka</string>
   <string name="pref_camera_slow_shutter_entry_off">Vypnuto</string>
   <string name="pref_camera_slow_shutter_entry_auto">Automaticky</string>
+  <string name="pref_camera_slow_shutter_entry_half_second">½ sekundy</string>
   <string name="pref_camera_slow_shutter_entry_1s">1 sekunda</string>
   <string name="pref_camera_slow_shutter_entry_2s">2 sekundy</string>
   <string name="pref_camera_slow_shutter_entry_4s">4 sekundy</string>
@@ -126,4 +128,5 @@
   <string name="camera_menu_effects_label">EFEKTY</string>
   <string name="camera_menu_asd_label">CHYTRÁ SCÉNA</string>
   <string name="pref_camera_power_shutter_title">Spoušť tlačítkem napájení</string>
+  <string name="pref_superzoom_title">Zvětšit</string>
 </resources>
