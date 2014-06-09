@@ -22,8 +22,8 @@
 -->
 <resources>
   <string name="pref_camera_powermode_title">Mode d\'alimentation</string>
-  <string name="pref_camera_powermode_entry_lp">Basse puissance</string>
-  <string name="pref_camera_powermode_entry_np">Puissance standard</string>
+  <string name="pref_camera_powermode_entry_lp">Basse consommation</string>
+  <string name="pref_camera_powermode_entry_np">Consommation standard</string>
   <string name="pref_camera_autoexposure_title">Mode exposition auto</string>
   <string name="pref_camera_autoexposure_entry_frameaverage">Moyenne sur image</string>
   <string name="pref_camera_autoexposure_entry_centerweighted">Pondérée centrale</string>

@@ -20,4 +20,47 @@
     See the License for the specific language governing permissions and
     limitations under the License.
 -->
-<resources/>
+<resources>
+  <string name="pref_camera_powermode_entry_np">Energie normală</string>
+  <string name="pref_camera_videoencoder_title">Codec video</string>
+  <string name="pref_camera_videoencoder_dialogtitle">Codec video</string>
+  <string name="pref_camera_audioencoder_title">Codec audio</string>
+  <string name="pref_camera_video_duration_entry_mms">30 secunde (MMS)</string>
+  <string name="pref_camera_video_duration_entry_10">10 minute</string>
+  <string name="pref_camera_video_duration_entry_30">30 minute</string>
+  <string name="pref_camera_selectablezoneaf_entry_auto">Auto</string>
+  <string name="pref_camera_hfr_title">Mișcare lentă (HFR)</string>
+  <string name="pref_camera_hfr_entry_2x">60 FPS</string>
+  <string name="pref_camera_hfr_entry_3x">90 FPS</string>
+  <string name="pref_camera_iso_entry_iso800">ISO800</string>
+  <string name="pref_camera_iso_entry_iso1600">ISO1600</string>
+  <string name="pref_camera_antibanding_entry_1">50 Hz</string>
+  <string name="pref_camera_antibanding_entry_2">60 Hz</string>
+  <string name="pref_camera_antibanding_entry_3">Auto</string>
+  <string name="pref_camera_coloreffect_entry_mono">Mono</string>
+  <string name="pref_camera_coloreffect_entry_sepia">Sepia</string>
+  <string name="pref_camera_coloreffect_entry_negative">Negativ</string>
+  <string name="pref_camera_coloreffect_entry_aqua">Aqua</string>
+  <string name="pref_camera_coloreffect_entry_neon">Neon</string>
+  <string name="pref_camera_coloreffect_entry_redtint">Tentă roşie</string>
+  <string name="pref_camera_coloreffect_entry_bluetint">Tentă albastră</string>
+  <string name="pref_camera_coloreffect_entry_greentint">Tentă verde</string>
+  <string name="pref_camera_sharpness_entry_level0">Nivel 0</string>
+  <string name="pref_camera_sharpness_entry_level1">Nivel 1</string>
+  <string name="pref_camera_sharpness_entry_level2">Nivel 2 (implicit)</string>
+  <string name="pref_camera_sharpness_entry_level3">Nivel 3</string>
+  <string name="pref_camera_sharpness_entry_level4">Nivel 4</string>
+  <string name="pref_camera_sharpness_entry_level5">Nivel 5</string>
+  <string name="pref_camera_sharpness_entry_level6">Nivel 6</string>
+  <string name="pref_camera_contrast_entry_level0">Nivel 0</string>
+  <string name="pref_camera_contrast_entry_level1">Nivel 1</string>
+  <string name="pref_camera_contrast_entry_level2">Nivel 2</string>
+  <string name="pref_camera_contrast_entry_level3">Nivel 3</string>
+  <string name="pref_camera_contrast_entry_level4">Nivel 4</string>
+  <string name="pref_camera_contrast_entry_level5">Nivel 5 (implicit)</string>
+  <string name="pref_camera_contrast_entry_level6">Nivel 6</string>
+  <string name="pref_camera_contrast_entry_level7">Nivel 7</string>
+  <string name="pref_camera_contrast_entry_level8">Nivel 8</string>
+  <string name="pref_camera_contrast_entry_level9">Nivel 9</string>
+  <string name="pref_camera_contrast_entry_level10">Nivel 10</string>
+</resources>

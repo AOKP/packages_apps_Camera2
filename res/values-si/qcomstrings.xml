@@ -40,7 +40,7 @@
   <string name="pref_camera_skinToneEnhancement_entry_disable">අබලයි</string>
   <string name="pref_camera_zsl_title">ශුන්‍ය ශටර පමාව (ZSL)</string>
   <string name="pref_camera_selectablezoneaf_title">ස්වයං නාභිගත පෙදෙස</string>
-  <string name="pref_camera_selectablezoneaf_entry_auto">ස්වයංක්‍රීය</string>
+  <string name="pref_camera_selectablezoneaf_entry_auto">ස්වයං</string>
   <string name="pref_camera_selectablezoneaf_entry_spotmetering">තැන මානනය</string>
   <string name="pref_camera_selectablezoneaf_entry_centerweighted">මධ්‍ය භරිත</string>
   <string name="pref_camera_selectablezoneaf_entry_frameaverage">රාමු සාමාන්‍යය</string>
@@ -61,7 +61,7 @@
   <string name="error_app_unsupported_raw">ZSL ප්‍රකාරයේදී දළ සේයා ආකෘතිය සහාය නොදක්වයි</string>
   <string name="error_app_unsupported_hdr_zsl">ZSL ප්‍රකාරයේදී HDR සහාය නොදක්වයි</string>
   <string name="pref_camera_ae_bracket_hdr_entry_ae_bracket">ස්වයංක්‍රීය නිරාවරණ</string>
-  <string name="pref_camera_ae_bracket_hdr_title">ස්වයංක්‍රීය නිරාවරණ සවිකිරීම</string>
+  <string name="pref_camera_ae_bracket_hdr_title">ස්වයං නිරාවරණ සවිකිරීම</string>
   <string name="pref_camera_ae_bracket_hdr_entry_on">සක්‍රීයයි</string>
   <string name="pref_camera_ae_bracket_hdr_entry_off">අක්‍රීයයි</string>
   <string name="err_app_unsupport_ae_bracket_code">ස්වයංක්‍රීය නිරාවරණ සවිකිරීම තවම සහාය නොදක්වයි</string>
@@ -77,8 +77,8 @@
   <string name="pref_camera_denoise_entry_off">අක්‍රීයයි</string>
   <string name="pref_camera_denoise_entry_on">සක්‍රීයයි</string>
   <string name="pref_camera_iso_title">ISO</string>
-  <string name="pref_camera_iso_entry_auto">ස්වයංක්‍රීය</string>
-  <string name="pref_camera_iso_entry_isodeblur">ස්වයංක්‍රීය (HJR)</string>
+  <string name="pref_camera_iso_entry_auto">ස්වයං</string>
+  <string name="pref_camera_iso_entry_isodeblur">ස්වයං (HJR)</string>
   <string name="pref_camera_iso_entry_iso100">ISO100</string>
   <string name="pref_camera_iso_entry_iso200">ISO200</string>
   <string name="pref_camera_iso_entry_iso400">ISO400</string>
@@ -88,7 +88,7 @@
   <string name="pref_camera_antibanding_entry_0">අක්‍රීයයි</string>
   <string name="pref_camera_antibanding_entry_1">50 Hz</string>
   <string name="pref_camera_antibanding_entry_2">60 Hz</string>
-  <string name="pref_camera_antibanding_entry_3">ස්වයංක්‍රීය</string>
+  <string name="pref_camera_antibanding_entry_3">ස්වයං</string>
   <string name="pref_camera_coloreffect_title">වර්ණ බලපෑම</string>
   <string name="pref_camera_coloreffect_entry_none">කිසිත් නැත</string>
   <string name="pref_camera_coloreffect_entry_mono">ඒකවර්ණ</string>
@@ -147,7 +147,7 @@
   <string name="pref_camera_contrast_title">විලක්ෂණය</string>
   <string name="pref_camera_saturation_title">සන්තෘප්තිය</string>
   <string name="pref_camera_picture_format_title">සේයා ආකෘතිය</string>
-  <string name="pref_camera_jpegquality_title">සේයාවේ තත්වය</string>
+  <string name="pref_camera_jpegquality_title">සේයාවේ ගුණත්වය</string>
   <string name="pref_camera_jpegquality_entry_0">55%</string>
   <string name="pref_camera_jpegquality_entry_1">65% (සාමාන්‍ය)</string>
   <string name="pref_camera_jpegquality_entry_2">75% (කදිම)</string>
