@@ -21,9 +21,9 @@
     limitations under the License.
 -->
 <resources>
-  <string name="pref_camera_powermode_title">Strømtilstand</string>
-  <string name="pref_camera_powermode_entry_lp">Lav strøm</string>
-  <string name="pref_camera_powermode_entry_np">Normal strøm</string>
+  <string name="pref_camera_powermode_title">Power tilstand</string>
+  <string name="pref_camera_powermode_entry_lp">Strømspare</string>
+  <string name="pref_camera_powermode_entry_np">Normal tilstand</string>
   <string name="pref_camera_autoexposure_title">Autoeksponeringstilstand</string>
   <string name="pref_camera_autoexposure_entry_frameaverage">Rammegennemsnit</string>
   <string name="pref_camera_autoexposure_entry_centerweighted">Centervægtet</string>
@@ -38,7 +38,9 @@
   <string name="pref_camera_skinToneEnhancement_title">Hudfarveforbedring</string>
   <string name="pref_camera_skinToneEnhancement_entry_enable">Aktivér</string>
   <string name="pref_camera_skinToneEnhancement_entry_disable">Deaktivér</string>
+  <string name="pref_camera_zsl_title">Zero Shutter Lag (ZSL)</string>
   <string name="pref_camera_selectablezoneaf_title">Autofokus-zone</string>
+  <string name="pref_camera_selectablezoneaf_entry_auto">Auto</string>
   <string name="pref_camera_selectablezoneaf_entry_spotmetering">Spotmåling</string>
   <string name="pref_camera_selectablezoneaf_entry_centerweighted">Centervægtet</string>
   <string name="pref_camera_selectablezoneaf_entry_frameaverage">Rammegennemsnit</string>
@@ -66,6 +68,7 @@
   <string name="snapshot_lower_than_video">Størrelse på videosnapshot er mindre end videoens størrelse, loftet er videostørrelsen. Vælg en opløsning højere eller magen til den aktuelle videostørrelse.</string>
   <string name="snapshotsize_low_powermode">Skift af billedstørrelse understøttes ikke i Lav strømtilstand, et snapshot i videostørrelsen vil blive taget. Vælg Normal strømtilstand for at tillade ændring af billedstørrelse.</string>
   <string name="snapshot_qcif_and_d1">Kun størrelsen på videosnapshot understøttes for denne opløsning.</string>
+  <string name="pref_camera_hfr_title">Slow Motion (HFR)</string>
   <string name="pref_camera_hfr_entry_off">Fra</string>
   <string name="pref_camera_hfr_entry_2x">60 fps</string>
   <string name="pref_camera_hfr_entry_3x">90 fps</string>
@@ -73,15 +76,31 @@
   <string name="pref_camera_denoise_title">Wavelet Denoise-tilstand</string>
   <string name="pref_camera_denoise_entry_off">Fra</string>
   <string name="pref_camera_denoise_entry_on">Til</string>
+  <string name="pref_camera_iso_title">ISO</string>
+  <string name="pref_camera_iso_entry_auto">Auto</string>
+  <string name="pref_camera_iso_entry_isodeblur">Auto (HJR)</string>
+  <string name="pref_camera_iso_entry_iso100">ISO100</string>
+  <string name="pref_camera_iso_entry_iso200">ISO200</string>
+  <string name="pref_camera_iso_entry_iso400">ISO400</string>
+  <string name="pref_camera_iso_entry_iso800">ISO800</string>
+  <string name="pref_camera_iso_entry_iso1600">ISO1600</string>
+  <string name="pref_camera_antibanding_title">Antibanding</string>
   <string name="pref_camera_antibanding_entry_0">Fra</string>
+  <string name="pref_camera_antibanding_entry_1">50 Hz</string>
+  <string name="pref_camera_antibanding_entry_2">60 Hz</string>
+  <string name="pref_camera_antibanding_entry_3">Auto</string>
   <string name="pref_camera_coloreffect_title">Farveeffekt</string>
   <string name="pref_camera_coloreffect_entry_none">Ingen</string>
+  <string name="pref_camera_coloreffect_entry_mono">Mono</string>
+  <string name="pref_camera_coloreffect_entry_sepia">Sepia</string>
   <string name="pref_camera_coloreffect_entry_negative">Negativ</string>
   <string name="pref_camera_coloreffect_entry_solarize">Solarisér</string>
   <string name="pref_camera_coloreffect_entry_posterize">Posteriśer</string>
   <string name="pref_camera_coloreffect_entry_aqua">Vand</string>
   <string name="pref_camera_coloreffect_entry_emboss">Relief</string>
   <string name="pref_camera_coloreffect_entry_sketch">Skitse</string>
+  <string name="pref_camera_coloreffect_entry_neon">Neon</string>
+  <string name="pref_camera_coloreffect_entry_pastel">Pastel</string>
   <string name="pref_camera_coloreffect_entry_mosaic">Mosaik</string>
   <string name="pref_camera_coloreffect_entry_redtint">Rød toning</string>
   <string name="pref_camera_coloreffect_entry_bluetint">Blå toning</string>
@@ -129,10 +148,18 @@
   <string name="pref_camera_saturation_title">Mætning</string>
   <string name="pref_camera_picture_format_title">Billedformat</string>
   <string name="pref_camera_jpegquality_title">Billedkvalitet</string>
+  <string name="pref_camera_jpegquality_entry_0">55%</string>
+  <string name="pref_camera_jpegquality_entry_1">65% (normal)</string>
   <string name="pref_camera_jpegquality_entry_2">75% (fin)</string>
   <string name="pref_camera_jpegquality_entry_3">85% (superfin)</string>
+  <string name="pref_camera_jpegquality_entry_4">95%</string>
+  <string name="pref_camera_jpegquality_entry_5">100%</string>
+  <string name="pref_camera_histogram_title">Histogram</string>
   <string name="pref_camera_histogram_entry_enable">Aktivér</string>
   <string name="pref_camera_histogram_entry_disable">Deaktivér</string>
+  <string name="pref_camera_picturesize_entry_1920x1080">1080p</string>
+  <string name="pref_camera_picturesize_entry_1280x720">720p</string>
+  <string name="pref_camera_focusmode_entry_normal">Normal</string>
   <string name="pref_camera_focusmode_entry_continuous">Fortløbende</string>
   <string name="pref_camera_scenedetect_title">Automatisk scenegenkendelse</string>
   <string name="pref_camera_scenedetect_entry_off">Fra</string>
