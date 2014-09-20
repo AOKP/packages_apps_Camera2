@@ -24,6 +24,7 @@
   <string name="pref_camera_powermode_title">パワーモード</string>
   <string name="pref_camera_powermode_entry_lp">ローパワー</string>
   <string name="pref_camera_powermode_entry_np">ノーマルパワー</string>
+  <string name="pref_camera_autoexposure_title">自動露出</string>
   <string name="pref_camera_autoexposure_entry_frameaverage">フレームアベレージ</string>
   <string name="pref_camera_autoexposure_entry_centerweighted">中央部重点測光</string>
   <string name="pref_camera_autoexposure_entry_spotmetering">スポット測光</string>
@@ -34,6 +35,8 @@
   <string name="pref_camera_video_duration_entry_10">10 分</string>
   <string name="pref_camera_video_duration_entry_30">30 分</string>
   <string name="pref_camera_skinToneEnhancement_title">肌の色合いを強調</string>
+  <string name="pref_camera_skinToneEnhancement_entry_enable">オン</string>
+  <string name="pref_camera_skinToneEnhancement_entry_disable">オフ</string>
   <string name="pref_camera_selectablezoneaf_title">AFゾーン</string>
   <string name="pref_camera_selectablezoneaf_entry_auto">自動</string>
   <string name="pref_camera_selectablezoneaf_entry_spotmetering">スポット測光</string>
@@ -46,6 +49,8 @@
   <string name="pref_camera_facedetection_entry_off">オフ</string>
   <string name="pref_camera_facedetection_entry_on">オン</string>
   <string name="pref_camera_redeyereduction_title">赤目軽減</string>
+  <string name="pref_camera_redeyereduction_entry_enable">オン</string>
+  <string name="pref_camera_redeyereduction_entry_disable">オフ</string>
   <string name="error_app_unsupported_hfr">HFRは選択した解像度ではサポートされていません</string>
   <string name="error_app_unsupported_hfr_codec">H264ビデオエンコードがサポートされているのはHFRがONである場合のみです</string>
   <string name="error_app_unsupported">このエンコーダーではサポートされていないビデオ解像度です</string>
@@ -58,6 +63,7 @@
   <string name="pref_camera_hfr_entry_2x">60</string>
   <string name="pref_camera_hfr_entry_3x">90</string>
   <string name="pref_camera_hfr_entry_4x">120</string>
+  <string name="pref_camera_denoise_title">ノイズ除去</string>
   <string name="pref_camera_denoise_entry_off">オフ</string>
   <string name="pref_camera_denoise_entry_on">オン</string>
   <string name="pref_camera_iso_title">ISO感度</string>
@@ -92,6 +98,7 @@
   <string name="pref_camera_touchafaec_title">タッチAF/AEC</string>
   <string name="pref_camera_touchafaec_entry_off">オフ</string>
   <string name="pref_camera_touchafaec_entry_on">オン</string>
+  <string name="pref_camera_dis_title">動画安定化</string>
   <string name="pref_camera_dis_entry_off">オフ</string>
   <string name="pref_camera_dis_entry_on">オン</string>
   <string name="pref_camera_facerc_title">顔認識</string>
@@ -138,6 +145,8 @@
   <string name="pref_camera_jpegquality_entry_4">95%</string>
   <string name="pref_camera_jpegquality_entry_5">100 ％</string>
   <string name="pref_camera_histogram_title">ヒストグラム</string>
+  <string name="pref_camera_histogram_entry_enable">オン</string>
+  <string name="pref_camera_histogram_entry_disable">オフ</string>
   <string name="pref_camera_scenedetect_title">自動シーン検出</string>
   <string name="pref_camera_scenedetect_entry_on">オン</string>
   <string name="pref_camera_scenedetect_entry_off">オフ</string>

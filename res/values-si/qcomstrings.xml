@@ -24,6 +24,7 @@
   <string name="pref_camera_powermode_title">බල ප්‍රකාරය</string>
   <string name="pref_camera_powermode_entry_lp">අවම බලය</string>
   <string name="pref_camera_powermode_entry_np">සාමාන්‍ය බලය</string>
+  <string name="pref_camera_autoexposure_title">ස්වයං නිරාවරණය</string>
   <string name="pref_camera_autoexposure_entry_frameaverage">රාමු සාමාන්‍යය</string>
   <string name="pref_camera_autoexposure_entry_centerweighted">මධ්‍ය භරිත</string>
   <string name="pref_camera_autoexposure_entry_spotmetering">තැන මානනය</string>
@@ -34,6 +35,8 @@
   <string name="pref_camera_video_duration_entry_10">මිනිත්තු 10</string>
   <string name="pref_camera_video_duration_entry_30">මිනිත්තු 30</string>
   <string name="pref_camera_skinToneEnhancement_title">හමේ වර්ණය වැඩි කිරීම</string>
+  <string name="pref_camera_skinToneEnhancement_entry_enable">සක්‍රීයයි</string>
+  <string name="pref_camera_skinToneEnhancement_entry_disable">අක්‍රීයයි</string>
   <string name="pref_camera_selectablezoneaf_title">ස්වයං නාභිගත පෙදෙස</string>
   <string name="pref_camera_selectablezoneaf_entry_auto">ස්වයං</string>
   <string name="pref_camera_selectablezoneaf_entry_spotmetering">තැන මානනය</string>
@@ -46,6 +49,8 @@
   <string name="pref_camera_facedetection_entry_off">අක්‍රීයයි</string>
   <string name="pref_camera_facedetection_entry_on">සක්‍රීයයි</string>
   <string name="pref_camera_redeyereduction_title">රතු ඇස අවකරණය</string>
+  <string name="pref_camera_redeyereduction_entry_enable">සක්‍රීයයි</string>
+  <string name="pref_camera_redeyereduction_entry_disable">අක්‍රීයයි</string>
   <string name="error_app_unsupported_hfr">තෝරාගත් විභේදනය සඳහා HFR සහාය නොදක්වයි</string>
   <string name="error_app_unsupported_hfr_codec">HFR සක්‍රීය විට H.264 වීඩියෝ සංකේතනය පමණක් සහාය දක්වයි</string>
   <string name="error_app_unsupported">මෙම කොඩෙක් ආකාරය සඳහා සහාය නොදක්වන වීඩියෝ විභේදනයකි</string>
@@ -58,6 +63,7 @@
   <string name="pref_camera_hfr_entry_2x">තත්පරයට රාමු 60</string>
   <string name="pref_camera_hfr_entry_3x">තත්පරයට රාමු 90</string>
   <string name="pref_camera_hfr_entry_4x">තත්පරයට රාමු 120</string>
+  <string name="pref_camera_denoise_title">නිශ්චල</string>
   <string name="pref_camera_denoise_entry_off">අක්‍රීයයි</string>
   <string name="pref_camera_denoise_entry_on">සක්‍රීයයි</string>
   <string name="pref_camera_iso_title">ISO</string>
@@ -92,6 +98,7 @@
   <string name="pref_camera_touchafaec_title">AF/AEC ස්පර්ශය</string>
   <string name="pref_camera_touchafaec_entry_off">අක්‍රීයයි</string>
   <string name="pref_camera_touchafaec_entry_on">සක්‍රීයයි</string>
+  <string name="pref_camera_dis_title">වීඩියෝ ස්ථාවරකිරීම</string>
   <string name="pref_camera_dis_entry_off">අක්‍රීයයි</string>
   <string name="pref_camera_dis_entry_on">සක්‍රීයයි</string>
   <string name="pref_camera_facerc_title">මුහුණ හඳුනාගැනීම</string>
@@ -138,6 +145,8 @@
   <string name="pref_camera_jpegquality_entry_4">95%</string>
   <string name="pref_camera_jpegquality_entry_5">100%</string>
   <string name="pref_camera_histogram_title">සංඛ්‍යාත ප්‍රස්තාරය</string>
+  <string name="pref_camera_histogram_entry_enable">සක්‍රීයයි</string>
+  <string name="pref_camera_histogram_entry_disable">අක්‍රීයයි</string>
   <string name="pref_camera_scenedetect_title">ස්වයං දර්ශන අබික්සුම</string>
   <string name="pref_camera_scenedetect_entry_on">සක්‍රීයයි</string>
   <string name="pref_camera_scenedetect_entry_off">අක්‍රීයයි</string>

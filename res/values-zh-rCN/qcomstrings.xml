@@ -24,6 +24,7 @@
   <string name="pref_camera_powermode_title">电源模式</string>
   <string name="pref_camera_powermode_entry_lp">低耗电</string>
   <string name="pref_camera_powermode_entry_np">正常耗电</string>
+  <string name="pref_camera_autoexposure_title">自动曝光</string>
   <string name="pref_camera_autoexposure_entry_frameaverage">均帧</string>
   <string name="pref_camera_autoexposure_entry_centerweighted">中心测光</string>
   <string name="pref_camera_autoexposure_entry_spotmetering">点测光</string>
@@ -34,6 +35,8 @@
   <string name="pref_camera_video_duration_entry_10">10 分钟</string>
   <string name="pref_camera_video_duration_entry_30">30 分钟</string>
   <string name="pref_camera_skinToneEnhancement_title">皮肤色调增强</string>
+  <string name="pref_camera_skinToneEnhancement_entry_enable">打开</string>
+  <string name="pref_camera_skinToneEnhancement_entry_disable">关闭</string>
   <string name="pref_camera_selectablezoneaf_title">自动对焦区域</string>
   <string name="pref_camera_selectablezoneaf_entry_auto">自动</string>
   <string name="pref_camera_selectablezoneaf_entry_spotmetering">点测光</string>
@@ -46,6 +49,8 @@
   <string name="pref_camera_facedetection_entry_off">关闭</string>
   <string name="pref_camera_facedetection_entry_on">打开</string>
   <string name="pref_camera_redeyereduction_title">红眼消除</string>
+  <string name="pref_camera_redeyereduction_entry_enable">打开</string>
+  <string name="pref_camera_redeyereduction_entry_disable">关闭</string>
   <string name="error_app_unsupported_hfr">高帧率不支持选中的分辨率</string>
   <string name="error_app_unsupported_hfr_codec">开启高帧率时仅支持 H.264 视频编码</string>
   <string name="error_app_unsupported">视频分辨率不支持此编解码器类型</string>
@@ -58,6 +63,7 @@
   <string name="pref_camera_hfr_entry_2x">60 FPS</string>
   <string name="pref_camera_hfr_entry_3x">90 FPS</string>
   <string name="pref_camera_hfr_entry_4x">120 FPS</string>
+  <string name="pref_camera_denoise_title">降噪</string>
   <string name="pref_camera_denoise_entry_off">关闭</string>
   <string name="pref_camera_denoise_entry_on">打开</string>
   <string name="pref_camera_iso_title">ISO</string>
@@ -92,6 +98,7 @@
   <string name="pref_camera_touchafaec_title">触摸自动对焦/AEC</string>
   <string name="pref_camera_touchafaec_entry_off">关闭</string>
   <string name="pref_camera_touchafaec_entry_on">打开</string>
+  <string name="pref_camera_dis_title">视频防抖</string>
   <string name="pref_camera_dis_entry_off">关闭</string>
   <string name="pref_camera_dis_entry_on">打开</string>
   <string name="pref_camera_facerc_title">人脸识别</string>
@@ -138,6 +145,8 @@
   <string name="pref_camera_jpegquality_entry_4">95%</string>
   <string name="pref_camera_jpegquality_entry_5">100%</string>
   <string name="pref_camera_histogram_title">直方图</string>
+  <string name="pref_camera_histogram_entry_enable">打开</string>
+  <string name="pref_camera_histogram_entry_disable">关闭</string>
   <string name="pref_camera_scenedetect_title">自动场景检测</string>
   <string name="pref_camera_scenedetect_entry_on">打开</string>
   <string name="pref_camera_scenedetect_entry_off">关闭</string>

@@ -23,6 +23,7 @@
   <string name="pref_camera_picturesize_entry_11_5mp">මෙගා පික්සල 11.5</string>
   <string name="pref_camera_picturesize_entry_10_4mp">මෙගා පික්සල 10.4</string>
   <string name="pref_camera_picturesize_entry_10mp">මෙගා පික්සල 10</string>
+  <string name="pref_camera_picturesize_entry_9_7mp">මෙගා පික්සල 9.7</string>
   <string name="pref_camera_picturesize_entry_9mp">මෙගා පික්සල 9</string>
   <string name="pref_camera_picturesize_entry_8_2mp">මෙගා පික්සල 8.2</string>
   <string name="pref_camera_picturesize_entry_7_7mp">මෙගා පික්සල 7.7</string>
@@ -121,6 +122,9 @@
   <string name="pref_camera_slow_shutter_entry_2s">තත්පර 2</string>
   <string name="pref_camera_slow_shutter_entry_4s">තත්පර 4</string>
   <string name="pref_camera_slow_shutter_entry_8s">තත්පර 8</string>
+  <string name="pref_camera_slow_shutter_entry_16s">තත්පර 16</string>
+  <string name="pref_camera_slow_shutter_entry_32s">තත්පර 32</string>
+  <string name="pref_camera_slow_shutter_entry_64s">තත්පර 64</string>
   <string name="pref_camera_storage_title">ආචයනය</string>
   <string name="camera_menu_enhance_label">උසස් කරන්න</string>
   <string name="camera_menu_slow_shutter_label">ප්‍රමාදී ශටරය</string>

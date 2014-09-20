@@ -23,6 +23,7 @@
   <string name="pref_camera_picturesize_entry_11_5mp">11,5M pixels</string>
   <string name="pref_camera_picturesize_entry_10_4mp">10.4M pixels</string>
   <string name="pref_camera_picturesize_entry_10mp">10M pixels</string>
+  <string name="pref_camera_picturesize_entry_9_7mp">9.7M pixels</string>
   <string name="pref_camera_picturesize_entry_9mp">9M pixels</string>
   <string name="pref_camera_picturesize_entry_8_2mp">8,2M pixels</string>
   <string name="pref_camera_picturesize_entry_7_7mp">7.7M pixels</string>
@@ -97,7 +98,7 @@
   <string name="pref_camera_coloreffect_entry_point_red_yellow">Point rouge-jaune</string>
   <string name="pref_camera_coloreffect_entry_cartoonize">Cartooniser</string>
   <string name="pref_camera_burst_title">Mode rafale</string>
-  <string name="pref_camera_burst_entry_off">Désactiver</string>
+  <string name="pref_camera_burst_entry_off">Désactivé</string>
   <string name="pref_camera_burst_entry_5">5 photos</string>
   <string name="pref_camera_burst_entry_10">10 photos</string>
   <string name="pref_camera_burst_entry_15">15 photos</string>
@@ -114,13 +115,16 @@
   <string name="pref_camera_flashmode_label_redeye">YEUX ROUGES</string>
   <string name="pref_camera_beauty_mode_title">Mode beauté</string>
   <string name="pref_camera_slow_shutter_title">Obturation lente</string>
-  <string name="pref_camera_slow_shutter_entry_off">Off</string>
+  <string name="pref_camera_slow_shutter_entry_off">Désactivé</string>
   <string name="pref_camera_slow_shutter_entry_auto">Auto</string>
   <string name="pref_camera_slow_shutter_entry_half_second">½ seconde</string>
   <string name="pref_camera_slow_shutter_entry_1s">1 seconde</string>
   <string name="pref_camera_slow_shutter_entry_2s">2 secondes</string>
   <string name="pref_camera_slow_shutter_entry_4s">4 secondes</string>
   <string name="pref_camera_slow_shutter_entry_8s">8 secondes</string>
+  <string name="pref_camera_slow_shutter_entry_16s">16 secondes</string>
+  <string name="pref_camera_slow_shutter_entry_32s">32 secondes</string>
+  <string name="pref_camera_slow_shutter_entry_64s">64 secondes</string>
   <string name="pref_camera_storage_title">Stockage</string>
   <string name="camera_menu_enhance_label">AMÉLIORER</string>
   <string name="camera_menu_slow_shutter_label">OBTURATION LENTE</string>

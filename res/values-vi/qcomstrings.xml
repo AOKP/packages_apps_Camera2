@@ -24,6 +24,7 @@
   <string name="pref_camera_powermode_title">Chế độ năng lượng</string>
   <string name="pref_camera_powermode_entry_lp">Năng lượng thấp</string>
   <string name="pref_camera_powermode_entry_np">Năng lượng bình thường</string>
+  <string name="pref_camera_autoexposure_title">Phơi sáng tự động</string>
   <string name="pref_camera_autoexposure_entry_frameaverage">Trung bình khung hình</string>
   <string name="pref_camera_autoexposure_entry_centerweighted">Đo sáng trung tâm</string>
   <string name="pref_camera_autoexposure_entry_spotmetering">Đo điểm phạm vi hẹp</string>
@@ -34,6 +35,8 @@
   <string name="pref_camera_video_duration_entry_10">10 phút</string>
   <string name="pref_camera_video_duration_entry_30">30 phút</string>
   <string name="pref_camera_skinToneEnhancement_title">Tăng cường màu da</string>
+  <string name="pref_camera_skinToneEnhancement_entry_enable">Bật</string>
+  <string name="pref_camera_skinToneEnhancement_entry_disable">Tắt</string>
   <string name="pref_camera_selectablezoneaf_title">Khu vực lấy nét tự động</string>
   <string name="pref_camera_selectablezoneaf_entry_auto">Tự động</string>
   <string name="pref_camera_selectablezoneaf_entry_spotmetering">Đo điểm phạm vi hẹp</string>
@@ -46,6 +49,8 @@
   <string name="pref_camera_facedetection_entry_off">Tắt</string>
   <string name="pref_camera_facedetection_entry_on">Bật</string>
   <string name="pref_camera_redeyereduction_title">Giảm mắt đỏ</string>
+  <string name="pref_camera_redeyereduction_entry_enable">Bật</string>
+  <string name="pref_camera_redeyereduction_entry_disable">Tắt</string>
   <string name="error_app_unsupported_hfr">HFR không hỗ trợ độ phân giải đã chọn</string>
   <string name="error_app_unsupported_hfr_codec">Chỉ hỗ trợ mã hoá video H.264 khi bật HFR</string>
   <string name="error_app_unsupported">Không hỗ trợ độ phân giải video cho loại codec này</string>
@@ -58,6 +63,7 @@
   <string name="pref_camera_hfr_entry_2x">60 FPS</string>
   <string name="pref_camera_hfr_entry_3x">90 FPS</string>
   <string name="pref_camera_hfr_entry_4x">120 FPS</string>
+  <string name="pref_camera_denoise_title">Giảm nhiễu</string>
   <string name="pref_camera_denoise_entry_off">Tắt</string>
   <string name="pref_camera_denoise_entry_on">Bật</string>
   <string name="pref_camera_iso_title">ISO</string>
@@ -92,6 +98,7 @@
   <string name="pref_camera_touchafaec_title">AF/AEC chạm</string>
   <string name="pref_camera_touchafaec_entry_off">Tắt</string>
   <string name="pref_camera_touchafaec_entry_on">Bật</string>
+  <string name="pref_camera_dis_title">Ổn định video</string>
   <string name="pref_camera_dis_entry_off">Tắt</string>
   <string name="pref_camera_dis_entry_on">Bật</string>
   <string name="pref_camera_facerc_title">Nhận dạng khuôn mặt</string>
@@ -138,6 +145,8 @@
   <string name="pref_camera_jpegquality_entry_4">95%</string>
   <string name="pref_camera_jpegquality_entry_5">100%</string>
   <string name="pref_camera_histogram_title">Biểu đồ</string>
+  <string name="pref_camera_histogram_entry_enable">Bật</string>
+  <string name="pref_camera_histogram_entry_disable">Tắt</string>
   <string name="pref_camera_scenedetect_title">Tự phát hiện cảnh</string>
   <string name="pref_camera_scenedetect_entry_on">Bật</string>
   <string name="pref_camera_scenedetect_entry_off">Tắt</string>
