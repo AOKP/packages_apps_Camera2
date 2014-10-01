@@ -54,7 +54,6 @@
   <string name="error_app_unsupported_hfr">Le mode HFR n\'est pas disponible pour la résolution selectionnée</string>
   <string name="error_app_unsupported_hfr_codec">Seul l\'encodage vidéo H.264 est pris en charge lorsque le mode HFR est activé</string>
   <string name="error_app_unsupported">Résolution vidéo non prise en charge pour ce type de codec</string>
-  <string name="pref_camera_ae_bracket_hdr_entry_ae_bracket">Exposition Auto</string>
   <string name="pref_camera_ae_bracket_hdr_title">Exposition automatique</string>
   <string name="pref_camera_ae_bracket_hdr_entry_on">Activé</string>
   <string name="pref_camera_ae_bracket_hdr_entry_off">Désactivé</string>

@@ -104,7 +104,6 @@
   <string name="pref_camera_burst_entry_15">15 снимков</string>
   <string name="pref_camera_burst_entry_20">20 снимков</string>
   <string name="pref_camera_focustime_title">Фокусировка длительным нажатием</string>
-  <string name="pref_camera_focustime_summary">Выберите продолжительность нажатия для фокусировки</string>
   <string name="pref_camera_focustime_entry_5">5 с</string>
   <string name="pref_camera_focustime_entry_10">10 с</string>
   <string name="pref_camera_focustime_entry_15">15 с</string>
@@ -127,7 +126,6 @@
   <string name="pref_camera_slow_shutter_entry_64s">64 секунды</string>
   <string name="pref_camera_storage_title">Память</string>
   <string name="camera_menu_enhance_label">УЛУЧШЕНИЕ</string>
-  <string name="camera_menu_slow_shutter_label">ДЛИТ. ВЫДЕРЖКА</string>
   <string name="camera_menu_beauty_mode_label">АВТОКОРРЕКЦИЯ</string>
   <string name="camera_menu_colorize_label">КОЛОРИРОВАНИЕ</string>
   <string name="camera_menu_effects_label">ЭФФЕКТЫ</string>

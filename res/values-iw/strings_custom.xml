@@ -98,7 +98,6 @@
   <string name="pref_camera_slow_shutter_entry_4s">4 שניות</string>
   <string name="pref_camera_slow_shutter_entry_8s">8 שניות</string>
   <string name="pref_camera_storage_title">אחסון</string>
-  <string name="camera_menu_slow_shutter_label">תריס איטי</string>
   <string name="camera_menu_beauty_mode_label">מיופה</string>
   <string name="camera_menu_colorize_label">צבעוני</string>
   <string name="camera_menu_effects_label">אפקטים</string>

@@ -54,7 +54,6 @@
   <string name="error_app_unsupported_hfr">HFR không hỗ trợ độ phân giải đã chọn</string>
   <string name="error_app_unsupported_hfr_codec">Chỉ hỗ trợ mã hoá video H.264 khi bật HFR</string>
   <string name="error_app_unsupported">Không hỗ trợ độ phân giải video cho loại codec này</string>
-  <string name="pref_camera_ae_bracket_hdr_entry_ae_bracket">AE-Bracket</string>
   <string name="pref_camera_ae_bracket_hdr_title">Chụp liên tục với độ phơi sáng tự động</string>
   <string name="pref_camera_ae_bracket_hdr_entry_on">Bật</string>
   <string name="pref_camera_ae_bracket_hdr_entry_off">Tắt</string>

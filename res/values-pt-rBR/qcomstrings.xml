@@ -49,7 +49,6 @@
   <string name="error_app_unsupported_hfr">HFR não é suportado para a resolução selecionada</string>
   <string name="error_app_unsupported_hfr_codec">Apenas codificação H.264 é suportada quando HFR está ativo</string>
   <string name="error_app_unsupported">Resolução de vídeo não suportada para este tipo de codec</string>
-  <string name="pref_camera_ae_bracket_hdr_entry_ae_bracket">AE-Bracket</string>
   <string name="pref_camera_ae_bracket_hdr_title">Bracketing de auto-exposição</string>
   <string name="pref_camera_ae_bracket_hdr_entry_on">Ligado</string>
   <string name="pref_camera_ae_bracket_hdr_entry_off">Desligado</string>

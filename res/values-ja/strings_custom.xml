@@ -104,7 +104,6 @@
   <string name="pref_camera_burst_entry_15">15ショット</string>
   <string name="pref_camera_burst_entry_20">20ショット</string>
   <string name="pref_camera_focustime_title">タッチフォーカス期間</string>
-  <string name="pref_camera_focustime_summary">タッチフォーカスの期間を選択する</string>
   <string name="pref_camera_focustime_entry_5">5秒</string>
   <string name="pref_camera_focustime_entry_10">10秒</string>
   <string name="pref_camera_focustime_entry_15">15秒</string>
@@ -127,7 +126,6 @@
   <string name="pref_camera_slow_shutter_entry_64s">64秒</string>
   <string name="pref_camera_storage_title">ストレージ</string>
   <string name="camera_menu_enhance_label">改良</string>
-  <string name="camera_menu_slow_shutter_label">スローシャッター</string>
   <string name="camera_menu_beauty_mode_label">ビューティ</string>
   <string name="camera_menu_colorize_label">カラー化</string>
   <string name="camera_menu_effects_label">特殊効果</string>

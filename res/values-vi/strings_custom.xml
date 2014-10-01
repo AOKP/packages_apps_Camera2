@@ -103,7 +103,6 @@
   <string name="pref_camera_burst_entry_15">15 ảnh</string>
   <string name="pref_camera_burst_entry_20">20 ảnh</string>
   <string name="pref_camera_focustime_title">Thời gian chạm lấy nét</string>
-  <string name="pref_camera_focustime_summary">Chọn thời gian để chạm lấy nét</string>
   <string name="pref_camera_focustime_entry_5">5 giây</string>
   <string name="pref_camera_focustime_entry_10">10 giây</string>
   <string name="pref_camera_focustime_entry_15">15 giây</string>
@@ -123,7 +122,6 @@
   <string name="pref_camera_slow_shutter_entry_8s">8 giây</string>
   <string name="pref_camera_storage_title">Lưu trữ</string>
   <string name="camera_menu_enhance_label">TĂNG CƯỜNG</string>
-  <string name="camera_menu_slow_shutter_label">CHỤP CHẬM</string>
   <string name="camera_menu_beauty_mode_label">LÀM ĐẸP</string>
   <string name="camera_menu_colorize_label">CHỈNH MÀU</string>
   <string name="camera_menu_effects_label">HIỆU ỨNG</string>

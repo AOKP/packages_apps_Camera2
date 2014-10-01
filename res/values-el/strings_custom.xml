@@ -103,7 +103,6 @@
   <string name="pref_camera_burst_entry_15">15 λήψεις</string>
   <string name="pref_camera_burst_entry_20">20 λήψεις</string>
   <string name="pref_camera_focustime_title">Διάρκεια εστίασης αφής</string>
-  <string name="pref_camera_focustime_summary">Επιλέξτε διάρκεια για την εστίαση αφής</string>
   <string name="pref_camera_focustime_entry_5">5δ</string>
   <string name="pref_camera_focustime_entry_10">10δ</string>
   <string name="pref_camera_focustime_entry_15">15δ</string>
@@ -122,7 +121,6 @@
   <string name="pref_camera_slow_shutter_entry_8s">8 δευτ.</string>
   <string name="pref_camera_storage_title">Αποθ. χώρος</string>
   <string name="camera_menu_enhance_label">ΒΕΛΤΙΩΣΗ</string>
-  <string name="camera_menu_slow_shutter_label">ΑΡΓΟ ΚΛΕΙΣΤΡΟ</string>
   <string name="camera_menu_beauty_mode_label">ΟΜΟΡΦΙΑ</string>
   <string name="camera_menu_colorize_label">ΧΡΩΜΑΤΙΣΜΟΣ</string>
   <string name="camera_menu_effects_label">ΕΦΕ</string>

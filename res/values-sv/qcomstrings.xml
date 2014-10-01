@@ -24,6 +24,7 @@
   <string name="pref_camera_powermode_title">Power-läge</string>
   <string name="pref_camera_powermode_entry_lp">Låg effekt</string>
   <string name="pref_camera_powermode_entry_np">Normal strömförsörjningen</string>
+  <string name="pref_camera_autoexposure_title">Automatisk exponering</string>
   <string name="pref_camera_autoexposure_entry_frameaverage">Ram genomsnittet</string>
   <string name="pref_camera_autoexposure_entry_centerweighted">Mittvägd</string>
   <string name="pref_camera_autoexposure_entry_spotmetering">Spotmätning</string>
@@ -34,6 +35,8 @@
   <string name="pref_camera_video_duration_entry_10">10 minuter</string>
   <string name="pref_camera_video_duration_entry_30">30 minuter</string>
   <string name="pref_camera_skinToneEnhancement_title">Hud nyans förbättring</string>
+  <string name="pref_camera_skinToneEnhancement_entry_enable">På</string>
+  <string name="pref_camera_skinToneEnhancement_entry_disable">Av</string>
   <string name="pref_camera_selectablezoneaf_title">Autofokus zon</string>
   <string name="pref_camera_selectablezoneaf_entry_auto">Auto</string>
   <string name="pref_camera_selectablezoneaf_entry_spotmetering">Spotmätning</string>
@@ -46,10 +49,11 @@
   <string name="pref_camera_facedetection_entry_off">Av</string>
   <string name="pref_camera_facedetection_entry_on">På</string>
   <string name="pref_camera_redeyereduction_title">Röda ögon-reducering</string>
+  <string name="pref_camera_redeyereduction_entry_enable">På</string>
+  <string name="pref_camera_redeyereduction_entry_disable">Av</string>
   <string name="error_app_unsupported_hfr">HFR stöds inte för valda upplösningen</string>
   <string name="error_app_unsupported_hfr_codec">Endast H.264 video kodning stöds när HFR är på</string>
   <string name="error_app_unsupported">Utan stöd för upplösning av denna codec typ</string>
-  <string name="pref_camera_ae_bracket_hdr_entry_ae_bracket">AE-fäste</string>
   <string name="pref_camera_ae_bracket_hdr_title">Automatisk exponeringsvariation</string>
   <string name="pref_camera_ae_bracket_hdr_entry_on">På</string>
   <string name="pref_camera_ae_bracket_hdr_entry_off">Av</string>
@@ -58,6 +62,7 @@
   <string name="pref_camera_hfr_entry_2x">60 FPS</string>
   <string name="pref_camera_hfr_entry_3x">90 FPS</string>
   <string name="pref_camera_hfr_entry_4x">120 FPS</string>
+  <string name="pref_camera_denoise_title">Brusreducera</string>
   <string name="pref_camera_denoise_entry_off">Av</string>
   <string name="pref_camera_denoise_entry_on">På</string>
   <string name="pref_camera_iso_title">ISO</string>

@@ -104,7 +104,6 @@
   <string name="pref_camera_burst_entry_15">15连拍</string>
   <string name="pref_camera_burst_entry_20">20连拍</string>
   <string name="pref_camera_focustime_title">触摸对焦持续时间</string>
-  <string name="pref_camera_focustime_summary">为触摸对焦选择持续时间</string>
   <string name="pref_camera_focustime_entry_5">5秒</string>
   <string name="pref_camera_focustime_entry_10">10秒</string>
   <string name="pref_camera_focustime_entry_15">15秒</string>
@@ -127,7 +126,6 @@
   <string name="pref_camera_slow_shutter_entry_64s">64 秒</string>
   <string name="pref_camera_storage_title">存储</string>
   <string name="camera_menu_enhance_label">增强模式</string>
-  <string name="camera_menu_slow_shutter_label">低速快门</string>
   <string name="camera_menu_beauty_mode_label">美肤</string>
   <string name="camera_menu_colorize_label">着色</string>
   <string name="camera_menu_effects_label">效果</string>

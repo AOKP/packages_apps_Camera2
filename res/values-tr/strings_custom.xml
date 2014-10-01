@@ -104,7 +104,6 @@
   <string name="pref_camera_burst_entry_15">15 çekim</string>
   <string name="pref_camera_burst_entry_20">20 çekim</string>
   <string name="pref_camera_focustime_title">Dokunarak odaklama süresi</string>
-  <string name="pref_camera_focustime_summary">Dokunarak odaklama için süreyi seçin</string>
   <string name="pref_camera_focustime_entry_5">5 saniye</string>
   <string name="pref_camera_focustime_entry_10">10 saniye</string>
   <string name="pref_camera_focustime_entry_15">15 saniye</string>
@@ -127,7 +126,6 @@
   <string name="pref_camera_slow_shutter_entry_64s">64 saniye</string>
   <string name="pref_camera_storage_title">Depolama</string>
   <string name="camera_menu_enhance_label">İYİLEŞTİR</string>
-  <string name="camera_menu_slow_shutter_label">YAVAŞ ÇEKİM</string>
   <string name="camera_menu_beauty_mode_label">GÜZELLİK</string>
   <string name="camera_menu_colorize_label">RENKLENDİR</string>
   <string name="camera_menu_effects_label">EFEKTLER</string>
